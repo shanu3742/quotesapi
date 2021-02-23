@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "c5d0b00a-044c-4a45-ab1f-36711cea6845",
+		"name": "qotes lover",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get quotes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:4040/apis",
+					"host": [
+						"localhost"
+					],
+					"port": "4040",
+					"path": [
+						"apis"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
